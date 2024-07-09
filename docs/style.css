@@ -111,7 +111,7 @@ header h2 {
     font-family: Arial, sans-serif;
 }
 
-@media(max-width:800px){
+@media(max-width:900px){
     .write{
         width: 400px;
         height: 700px;
